@@ -5,7 +5,9 @@
 
 
 Sub Stock_analysis()
+
     'Set the initial variables for all worksheets
+    
     Dim Ticker As String
     Dim LastRow As Long
     Dim Price_Open As Double
